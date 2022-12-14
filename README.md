@@ -22,3 +22,16 @@ And start generating!
 Thats all! feel free to use it in any way you want, (as long as the license allows it, of course)
 
 (almost forgot, you need python as well, but i got you homie https://www.python.org/downloads/)
+
+
+
+# UPDATE FROM KAT
+Me and Reyes have been speaking a bit and i finally convinced this idiot to open source this project, why didnt he do it to beguin with?
+
+"I dont feel like open sourceing it and i deleted the souce code"
+
+Thats his words not mine
+
+We're making a full fucking redesign of the program as well so yeah epic, also im leading the coding side, he's like a manager, because that dudes in fucking russia (not really) and im in america and some stupid ass bug is stoping him from development, AAAAAAAAAAAAAA
+
+Reyes is not quitting, he's still working on the project he's just been tierd as fuck so yeah thats fun. anyways, goodnight.
