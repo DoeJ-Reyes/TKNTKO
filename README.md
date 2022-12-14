@@ -34,5 +34,4 @@ Thats his words not mine
 
 We're making a full fucking redesign of the program as well so yeah epic, also im leading the coding side, he's like a manager, because that dudes in fucking russia (not really) and im in america and some stupid ass bug is stoping him from development, AAAAAAAAAAAAAA
 
-# Wraping up!
-Reyes is not quitting, he's still working on the project just too fucking stupid to run stuff like this and he's tierd as fuck so yeah thats fun. anyways, goodnight, you stupid hackers
+Reyes is not quitting, he's still working on the project he's just been tierd as fuck so yeah thats fun. anyways, goodnight.
